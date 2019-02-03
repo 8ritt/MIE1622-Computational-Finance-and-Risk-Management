@@ -1,0 +1,1591 @@
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:00 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000060
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:00 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =             0.000000
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:00 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000060
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:00 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000075
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:00 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =             0.000000
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:00 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000075
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:00 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000061
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:00 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =            26.773719
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:00 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000061
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:00 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000056
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:00 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =             0.000000
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000137
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =             0.000000
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000137
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000076
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000102
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000102
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =             0.000000
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000103
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =             0.000000
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000046
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000049
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000049
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000040
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:01 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             4.914808
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:02 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000040
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:02 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000071
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:02 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:02 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000071
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:32 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000210
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:32 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =             0.000000
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:32 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000210
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:32 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000263
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:32 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =             0.000000
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:32 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000263
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:32 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000143
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Total time for automatic ordering = 0.02 sec. (0.00 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000153
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.001139
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =             0.000000
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.001139
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.001385
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =             0.000000
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000519
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =             0.000000
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000519
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:33 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000429
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:34 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             4.274640
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:34 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000429
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:34 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:34 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:34 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000144
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:34 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000156
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:34 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =            11.381568
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:34 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000156
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:34 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'max_sharpe_ratio' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:34 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Tue Mar  6 17:52:34 2018
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000081
+
+Dual simplex solved model.
+
+
+Log for 'min_Variance' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'max_Return' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Using LP solver to compute a starting basis.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =             0.000000
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Iteration log . . .
+Iteration:     1    Phase I obj   =             0.000468
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Iteration log . . .
+Iteration:     1    Phase I obj   =             0.000544
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Total time for automatic ordering = 0.04 sec. (0.00 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Iteration log . . .
+Iteration:     1    Phase I obj   =             0.001188
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Iteration log . . .
+Iteration:     1    Phase I obj   =             0.001677
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Efficient_Frontier' Clone_2 (V12.8.0.0) Sat Mar 17 16:58:00 2018
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Iteration log . . .
+Iteration:     1    Phase I obj   =             0.005479
+
+Dual simplex solved model.
+
